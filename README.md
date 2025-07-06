@@ -16,7 +16,7 @@
 
 🚀 Live Demo
 
-🔗 **Live Site:** [Click here to view](https://yourusername.github.io/MyOnlineMeal/) 
+🔗 **Live Site:** [Click here to view](https://abhiramsr04.github.io/Online-food-delivery-service-website/) 
 
 📁 Project Structure
 MyOnlineMeal/
@@ -34,7 +34,7 @@ MyOnlineMeal/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/MyOnlineMeal.git
+   git clone https://github.com/abhiramsr04/Online-food-delivery-service-website.git
 
 Acknowledgements:
 This project was built for learning and demonstration purposes.
