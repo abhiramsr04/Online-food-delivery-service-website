@@ -19,23 +19,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **Live Site:** [Click here to view](https://yourusername.github.io/MyOnlineMeal/)  
-
----
-
-## 📁 Project Structure
-
-MyOnlineMeal/
-├── index.html
-├── style.css
-├── images/
-│ ├── food1.jpg
-│ ├── foodlogo.jpg
-│ ├── ice creams.jpg
-│ ├── pizza.jpg
-│ ├── contact2.jpg
-│ └── ...other images
-├── README.md
+🔗 **Live Site:** [Click here to view](https://abhiramsr04.github.io/Online-food-delivery-service-website/)  
 
 ---
 
@@ -43,7 +27,9 @@ MyOnlineMeal/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/MyOnlineMeal.git
+   git clone https://github.com/abhiramsr04/Online-food-delivery-service-website.git
+
+---
 
 **Tech Stack**
  1. HTML5
